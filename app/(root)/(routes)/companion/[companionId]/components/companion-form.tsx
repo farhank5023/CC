@@ -6,7 +6,8 @@ import axios from "axios";
 
 import { Wand2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import {Category, Companion } from "@prisma/client";
+import {Category} from "@prisma/client";
+import {Companion } from "@prisma/client";
 import { Textarea } from "@/components/ui/textarea";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
