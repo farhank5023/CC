@@ -2,6 +2,8 @@
 
 [Live Video Demo](https://drive.google.com/file/d/1RM04tg1A5eryHS-6TLPEPN3-SGuxcfVB/view?usp=sharing)
 
+[Website](https://netlify-ai.vercel.app/)
+
 [Join our community Discord: AI Stack Devs](https://discord.gg/PQUmTBTGmT)
 
 
