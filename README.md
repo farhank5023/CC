@@ -1,6 +1,6 @@
 # AI Companion App 
 
-[Live Video Demo](https://drive.google.com/file/d/1RM04tg1A5eryHS-6TLPEPN3-SGuxcfVB/view?usp=sharing)
+[Live Video Demo](https://drive.google.com/file/d/19PGYbV9gZwvFz9dJrUb4EjKXSCaGaDOg/view?usp=sharing)
 
 [Website](https://netlify-ai.vercel.app/)
 
