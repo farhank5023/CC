@@ -35,7 +35,7 @@ The stack is based on the following:
 - Text model: [OpenAI](https://platform.openai.com/docs/models), [Replicate (Vicuna13b)](https://replicate.com/replicate/vicuna-13b)
 - Text streaming: [ai sdk](https://github.com/vercel-labs/ai)
 - Conversation history: [Upstash](https://upstash.com/)
-- Deployment: [Fly](https://fly.io/)
+- Deployment: [Fly](https://fly.io/) (Any btw ,we also did on vercel **so smooth**)
 - Text with companion: [Twilio](https://twilio.com/)
 
 ## Quickstart
