@@ -4,7 +4,7 @@
 
 [Website](https://netlify-ai.vercel.app/)
 
-[Join our community Discord: AI Stack Devs](https://discord.gg/PQUmTBTGmT)
+
 
 
 
