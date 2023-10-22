@@ -28,15 +28,16 @@ There are many possible use cases for these companions - romantic (AI girlfriend
 
 The stack is based on the following:
 
-- Auth: [Clerk](https://clerk.com/)
-- App logic: [Next.js](https://nextjs.org/)
+- Auth: [Clerk](https://clerk.com/)  `farhank5023`
+- App logic: [Next.js](https://nextjs.org/) 
 - VectorDB: [Pinecone](https://www.pinecone.io/) / [Supabase pgvector](https://supabase.com/docs/guides/database/extensions/pgvector)
-- LLM orchestration: [Langchain.js](https://js.langchain.com/docs/)
-- Text model: [OpenAI](https://platform.openai.com/docs/models), [Replicate (Vicuna13b)](https://replicate.com/replicate/vicuna-13b)
+- LLM orchestration: [Langchain.js](https://js.langchain.com/docs/) 
+- Text model: [OpenAI](https://platform.openai.com/docs/models), [Replicate (Vicuna13b)](https://replicate.com/replicate/vicuna-13b) `farhank5023`
 - Text streaming: [ai sdk](https://github.com/vercel-labs/ai)
-- Conversation history: [Upstash](https://upstash.com/)
+- Conversation history: [Upstash](https://upstash.com/) 
 - Deployment: [Fly](https://fly.io/) (Any btw ,we also did on vercel **so smooth**)
 - Text with companion: [Twilio](https://twilio.com/)
+- PlanetScale-farhank5023
 
 ## Quickstart
 
