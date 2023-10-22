@@ -1,4 +1,4 @@
-# AI Companion App 
+# AI Buddy App 
 
 [Live Video Demo](https://drive.google.com/file/d/19PGYbV9gZwvFz9dJrUb4EjKXSCaGaDOg/view?usp=sharing)
 
